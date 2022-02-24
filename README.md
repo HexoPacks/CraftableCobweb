@@ -3,6 +3,7 @@
 A Minecraft datapack to add a cobweb recipe.
 
 ## Recipe
+The recipe to craft the cobweb make use of strings and slimeball as follow :
 
 ![cobweb](img/cobweb.png)
 
